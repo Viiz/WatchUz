@@ -3,3 +3,11 @@
   text-align: center;
   font-weight: 600;
 }
+
+/*Added by Tomasz*/
+
+p{text-decoration:none !important; color:#333;}
+h5{font-weight:bolder;}
+a {text-decoration:none!important;}
+.watching{color:#4461ad;}
+.watching p{color:#4461ad; }
